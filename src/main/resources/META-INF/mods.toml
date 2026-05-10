@@ -35,10 +35,10 @@ displayName="${mod_name}"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="examplemod.png" #optional
+logoFile="TORCHREDUX_LOGO_splash.png"
 
 # A text field displayed in the mod UI
-#credits="" #optional
+credits="TorchRedux by lefoxxy. Original Torcherino by skniro, LukeGrahamLandry#6888, NinjaPhenix, sci4me, and Moze_Intel. Licensing follows the original Torcherino project."
 
 # A text field displayed in the mod UI
 authors="${mod_authors}"
